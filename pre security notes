@@ -1,12 +1,20 @@
 16 april 2026 
-topic/module: offensive cybersecurity intro 
+module 1: introduction to cyber security 
+topic: offensive cybersecurity intro 
 today i did a first task which was to hack into the fake bank account
 i had to paste linux command which try hack me has given me and find something hiden in this page 
 i have finden a bug in which i can deposit how much money i have so i copied the link from terminal and pasted it 
 then i deposited 2000 to my number account which was : "8881" and after a done quest i was given a password to end the task 
 
-topic/module: defensive cybersecurity intro 
+topic: defensive cybersecurity intro 
 i had to monitore a site in wchich someone wanted to hack 
 i was having to check from whats the ip the attacks are from and i was having to see what the hacker is actually trying to do 
 he was trying to break into /admin so i was having to come to the site and block his ip in firewall 
 then i got password to end the task 
+
+topic: carrers in cyber  
+i readed about two teams: red and blue and what they do.
+red team is basically legal hackers (attacking) ang blue team is defenders 
+in the last task i was doing a quiz in which work i would find myself and it picked red teamer for me 
+
+topic: 

@@ -17,4 +17,12 @@ i readed about two teams: red and blue and what they do.
 red team is basically legal hackers (attacking) ang blue team is defenders 
 in the last task i was doing a quiz in which work i would find myself and it picked red teamer for me 
 
-topic: 
+17 april 2026
+module 2 : Network fundamentals
+topic: what is networking
+watched 23 minutes video long on yt from tryhack me about what is networking and readed what it was saying and did tasks:
+at first i was reading what is ip adress and mac and some other informations about ip adresses (how many octecs they have, how does private and public ip look (private can be like 192:168:1.1 and public 
+86.55.1.1)) i also learned that it have to be from 0 to 225.
+also learned about IPv4 and IPv6. ipv4 is often used but ipv6 have some pros that ip4v dont have which is way more devices connected to the network 
+learned what mac is and i was in vm machine in which i was having to change some guys mac into some girl mac and see what happens (it connected to router at first but didnt reach the website )
+then i learned how ping works and i was in vm in which i was having to ping 8.8.8.8 with "ping" command and get the flag.

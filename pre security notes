@@ -26,3 +26,14 @@ at first i was reading what is ip adress and mac and some other informations abo
 also learned about IPv4 and IPv6. ipv4 is often used but ipv6 have some pros that ip4v dont have which is way more devices connected to the network 
 learned what mac is and i was in vm machine in which i was having to change some guys mac into some girl mac and see what happens (it connected to router at first but didnt reach the website )
 then i learned how ping works and i was in vm in which i was having to ping 8.8.8.8 with "ping" command and get the flag.
+
+april 18 2026:
+thats all for module 2 becouse i have to pay for the rest 
+module 3 :
+topic: DNS in Detail
+at first i was having to read what dns is and how the hierarchy works.
+then read about subodomains and dns record types which was : A , AAAA , CNAME , MX and TXT and what they are used for , example: AAAA resolves to IPv6 adresses
+at the end i was having to do some task in vm in which i was switcing besides all these 5 and giving answers.
+that topic was kinda hard so i watched a yt video about it too.
+
+april 19 2026:

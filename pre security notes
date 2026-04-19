@@ -29,7 +29,7 @@ then i learned how ping works and i was in vm in which i was having to ping 8.8.
 
 april 18 2026:
 thats all for module 2 becouse i have to pay for the rest 
-module 3 :
+module 3 :How The Web Works
 topic: DNS in Detail
 at first i was having to read what dns is and how the hierarchy works.
 then read about subodomains and dns record types which was : A , AAAA , CNAME , MX and TXT and what they are used for , example: AAAA resolves to IPv6 adresses
@@ -37,3 +37,15 @@ at the end i was having to do some task in vm in which i was switcing besides al
 that topic was kinda hard so i watched a yt video about it too.
 
 april 19 2026:
+topic:http in detail
+at first i learned what http and https stands for 
+then i was reading about responses and requests and did simple tasks about it, nothing special 
+then learneg about http methods and what they do which are : GET POST DELETE  and PUT
+then i was reading some long text about https status codes and erros and simple tasks about them .
+then smth short with tasks about headers
+then readed about cookies and learned how to viev which cookies my firefox uses.
+at the end there was tasks from all the room and i will copy some of them here :
+-Make a GET request to /room page
+-Make a DELETE request to /user/1 page
+-Make a POST request to /login page with the username of thm and a password of letmein
+and more (there was 7 of them ) and each one has given me flag to the task.
